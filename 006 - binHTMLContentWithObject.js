@@ -16,3 +16,8 @@ newObj.name = 'HanMeiMei // #content内容为 My name is HanMeiMei, I love JaveS
 newObj.language = 'Java' // #content内容为 My name is HanMeiMei, I love Java.
 
 */
+
+
+function binHTMLContentWithObject(ele, obj){
+    
+}
